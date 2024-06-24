@@ -1,0 +1,1 @@
+In this project the ablity of using six applied machine learning (ML) models including Decision Tree (DT), Random Forest (RF), Multilayer Perceptron Neural Network (MLP-NN), Adaptive Boosting (AdaBoost), Logistic Regression (LR), and Support Vector Machines (SVM) in flood inventory.
